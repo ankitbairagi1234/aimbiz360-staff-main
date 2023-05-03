@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "634385261560",
+    "project_id": "aimbiz-3b4ed",
+    "storage_bucket": "aimbiz-3b4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634385261560:android:dc6ce3388999ca53cc2c0d",
+        "android_client_info": {
+          "package_name": "com.aimbiz.staff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634385261560-3ja5fr5lkc976g2lup777hj0fgphbmia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aimbiz.staff",
+            "certificate_hash": "8623a7fa571dad018f9d232be1032c0025b5d6db"
+          }
+        },
+        {
+          "client_id": "634385261560-mqnvaq2fh14e3l9pq8ga1j2nlredhr07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmm_vkPn7MGwDM6MjujrRb4gUpPrpCTpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634385261560-mqnvaq2fh14e3l9pq8ga1j2nlredhr07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
